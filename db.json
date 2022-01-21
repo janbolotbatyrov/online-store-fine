@@ -1,0 +1,202 @@
+{
+  "phones": [
+    {
+      "name": "Samsung Galaxy A20",
+      "memory": 128,
+      "ram": 3,
+      "camera": "48 МП, 5 МП, 2 МП, 2 МП",
+      "battery": 5000,
+      "color": "Black",
+      "price": 12900,
+      "screen": "6.2/2400x1080 Пикс",
+      "description": "Большой 6,5-дюймовый HD+ экран с V-образным вырезом для камеры создан для полного погружения в контент. Благодаря поддержке технологии HD+ картинка на Samsung Galaxy A12 яркая и насыщенная.",
+      "imageUrl": "https://ostore.kg/upload/resize_cache/iblock/173/500_500_1/1Black.JPG",
+      "id": 1
+    },
+    {
+      "name": "Mi Note 11 Pro Plus",
+      "memory": 128,
+      "ram": 8,
+      "camera": "48 МП, 5 МП, 2 МП, 2 МП",
+      "battery": 5000,
+      "color": "Black",
+      "price": 30900,
+      "screen": "6.5 (1600x720) 60 Гц",
+      "description": "Большой 6,5-дюймовый HD+ экран с V-образным вырезом для камеры создан для полного погружения в контент. Благодаря поддержке технологии HD+ картинка на Samsung Galaxy A12 яркая и насыщенная.",
+      "imageUrl": "https://ostore.kg/upload/resize_cache/iblock/742/500_500_1/1Black.JPG",
+      "id": 2
+    },
+    {
+      "name": "Xiaomi 8 ",
+      "memory": 128,
+      "ram": 3,
+      "camera": "48 МП, 5 МП, 2 МП, 2 МП",
+      "battery": 5000,
+      "color": "Blue",
+      "price": 14900,
+      "screen": "6.2/2400x1080 Пикс",
+      "description": "Большой 6,5-дюймовый HD+ экран с V-образным вырезом для камеры создан для полного погружения в контент. Благодаря поддержке технологии HD+ картинка на Samsung Galaxy A12 яркая и насыщенная.",
+      "imageUrl": "https://ostore.kg/upload/resize_cache/iblock/2c1/500_500_1/0Blue.jpg",
+      "id": 3
+    },
+    {
+      "name": "Aplle",
+      "memory": 128,
+      "ram": 3,
+      "camera": "48 МП, 5 МП, 2 МП, 2 МП",
+      "battery": 5000,
+      "color": "Blue",
+      "price": 14900,
+      "screen": "6.2/2400x1080 Пикс",
+      "description": "Большой 6,5-дюймовый HD+ экран с V-образным вырезом для камеры создан для полного погружения в контент. Благодаря поддержке технологии HD+ картинка на Samsung Galaxy A12 яркая и насыщенная.",
+      "imageUrl": "https://ostore.kg/upload/resize_cache/iblock/ffe/500_500_1/1Silver.png",
+      "id": 4
+    },
+    {
+      "name": "Xiaomi 8 ",
+      "memory": 128,
+      "ram": 3,
+      "camera": "48 МП, 5 МП, 2 МП, 2 МП",
+      "battery": 5000,
+      "color": "Blue",
+      "price": 14900,
+      "screen": "6.2/2400x1080 Пикс",
+      "description": "Большой 6,5-дюймовый HD+ экран с V-образным вырезом для камеры создан для полного погружения в контент. Благодаря поддержке технологии HD+ картинка на Samsung Galaxy A12 яркая и насыщенная.",
+      "imageUrl": "https://ostore.kg/upload/resize_cache/iblock/2c1/500_500_1/0Blue.jpg",
+      "id": 5
+    },
+    {
+      "name": "Xiaomi 8 ",
+      "memory": 128,
+      "ram": 3,
+      "camera": "48 МП, 5 МП, 2 МП, 2 МП",
+      "battery": 5000,
+      "color": "Blue",
+      "price": 14900,
+      "screen": "6.2/2400x1080 Пикс",
+      "description": "Большой 6,5-дюймовый HD+ экран с V-образным вырезом для камеры создан для полного погружения в контент. Благодаря поддержке технологии HD+ картинка на Samsung Galaxy A12 яркая и насыщенная.",
+      "imageUrl": "https://ostore.kg/upload/resize_cache/iblock/2c1/500_500_1/0Blue.jpg",
+      "id": 6
+    },
+    {
+      "name": "Xiaomi 8 ",
+      "memory": 128,
+      "ram": 3,
+      "camera": "48 МП, 5 МП, 2 МП, 2 МП",
+      "battery": 5000,
+      "color": "Blue",
+      "price": 14900,
+      "screen": "6.2/2400x1080 Пикс",
+      "description": "Большой 6,5-дюймовый HD+ экран с V-образным вырезом для камеры создан для полного погружения в контент. Благодаря поддержке технологии HD+ картинка на Samsung Galaxy A12 яркая и насыщенная.",
+      "imageUrl": "https://ostore.kg/upload/resize_cache/iblock/2c1/500_500_1/0Blue.jpg",
+      "id": 7
+    },
+    {
+      "name": "Xiaomi 8 ",
+      "memory": 128,
+      "ram": 3,
+      "camera": "48 МП, 5 МП, 2 МП, 2 МП",
+      "battery": 5000,
+      "color": "Blue",
+      "price": 14900,
+      "screen": "6.2/2400x1080 Пикс",
+      "description": "Большой 6,5-дюймовый HD+ экран с V-образным вырезом для камеры создан для полного погружения в контент. Благодаря поддержке технологии HD+ картинка на Samsung Galaxy A12 яркая и насыщенная.",
+      "imageUrl": "https://ostore.kg/upload/resize_cache/iblock/2c1/500_500_1/0Blue.jpg",
+      "id": 8
+    },
+    {
+      "name": "Xiaomi 8 ",
+      "memory": 128,
+      "ram": 3,
+      "camera": "48 МП, 5 МП, 2 МП, 2 МП",
+      "battery": 5000,
+      "color": "Blue",
+      "price": 14900,
+      "screen": "6.2/2400x1080 Пикс",
+      "description": "Большой 6,5-дюймовый HD+ экран с V-образным вырезом для камеры создан для полного погружения в контент. Благодаря поддержке технологии HD+ картинка на Samsung Galaxy A12 яркая и насыщенная.",
+      "imageUrl": "https://ostore.kg/upload/resize_cache/iblock/2c1/500_500_1/0Blue.jpg",
+      "id": 9
+    }
+  ],
+  "headphones": [
+    {
+      "name": "Наушники Bluetooth JBL Tune 500",
+      "color": "Black",
+      "price": 4000,
+      "imageUrl": "https://ostore.kg/upload/resize_cache/iblock/d8f/500_500_1/1Black.JPG",
+      "id": 1
+    },
+    {
+      "name": "Наушники Bluetooth JBL Tune 510",
+      "color": "White",
+      "price": 4500,
+      "imageUrl": "https://ostore.kg/upload/resize_cache/iblock/d3d/500_500_1/1Whine.JPG",
+      "id": 2
+    },
+    {
+      "name": "Наушники Bluetooth JBL E55",
+      "color": "Red",
+      "price": 6400,
+      "imageUrl": "https://ostore.kg/upload/resize_cache/iblock/c61/500_500_1/1Red.JPG",
+      "id": 3
+    },
+    {
+      "name": "Наушники Bluetooth JBL E55",
+      "color": "Red",
+      "price": 6400,
+      "imageUrl": "https://ostore.kg/upload/resize_cache/iblock/fd3/500_500_1/1White.JPG",
+      "id": 4
+    },
+    {
+      "name": "Наушники Bluetooth JBL E55",
+      "color": "Red",
+      "price": 6400,
+      "imageUrl": "https://ostore.kg/upload/resize_cache/iblock/65e/500_500_1/1Black.jpg",
+      "id": 6
+    },
+    {
+      "name": "Наушники Bluetooth JBL E55",
+      "color": "Red",
+      "price": 6400,
+      "imageUrl": "https://ostore.kg/upload/resize_cache/iblock/c61/500_500_1/1Red.JPG",
+      "id": 7
+    }
+  ],
+  "powerBank": [
+    {
+      "name": "Xiaomi Mi Power Bank 10000 mAh 2 2USB",
+      "colo": "Black",
+      "price": 1500,
+      "imageUrl": "https://ostore.kg/upload/resize_cache/iblock/5c7/500_500_1/1Black.jpg",
+      "id": 1
+    },
+    {
+      "name": "Xiaomi Mi Power Bank 20000 mAh 2C",
+      "colo": "White",
+      "price": 1900,
+      "imageUrl": "https://ostore.kg/upload/resize_cache/iblock/5c7/500_500_1/1Black.jpg",
+      "id": 2
+    },
+    {
+      "name": "Power Bank с функцией беспроводной зарядки Borofone BT16 10000 mAh",
+      "colo": "Black",
+      "price": 1800,
+      "imageUrl": "https://ostore.kg/upload/resize_cache/iblock/5c7/500_500_1/1Black.jpg",
+      "id": 3
+    },
+    {
+      "name": "Power Bank Borofone BJ3 10000 mAh",
+      "colo": "Black",
+      "price": 1200,
+      "imageUrl": "https://ostore.kg/upload/resize_cache/iblock/bfc/500_500_1/1Black.jpg",
+      "id": 4
+    },
+    {
+      "name": "Xiaomi Mi Power Bank 10000 mAh 2 2USB",
+      "colo": "Black",
+      "price": 1500,
+      "imageUrl": "https://ostore.kg/upload/resize_cache/iblock/5c7/500_500_1/1Black.jpg",
+      "id": 5
+    }
+  ]
+}

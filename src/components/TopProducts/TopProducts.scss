@@ -1,0 +1,40 @@
+.top-products {
+  position: relative;
+  margin-top: 20px;
+  &__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  &__arrow {
+    i {
+      font-size: 30px;
+      margin-left: 20px;
+      color: #76bc21;
+      cursor: pointer;
+    }
+  }
+
+  &__items {
+    display: flex;
+    transition: all 0.3s ease-in-out;
+    justify-content: space-between;
+  }
+}
+
+.overflow {
+  width: 250px;
+  height: 380px;
+  background-color: #fff;
+  filter: blur(40px);
+  position: absolute;
+}
+
+.overflow-1 {
+  right: -200px;
+  bottom: 0;
+}
+.overflow-2 {
+  left: -200px;
+  bottom: 0;
+}
