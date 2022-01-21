@@ -1,6 +1,7 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
 import { BrowserRouter, Route } from "react-router-dom";
+import Home from "../pages/Home/Home";
 import "./App.css";
 import AllProducts from "./components/AllProducts/AllProducts";
 import Footer from "./components/Footer/Footer";
@@ -38,12 +39,7 @@ function App() {
     <div className="main">
       <Header />
       <BrowserRouter>
-        <Catalog />
-        <TopProducts title={"Смартфоны и планшеты"} products={phones} />
-        <Promotion />
-        <TopProducts title={"Наушники"} products={headphones} />
-        <Promotion />
-        <TopProducts title={"Power Bank"} products={powerBank} />
+      <Route path="/" component={Home} />
         <Route path="/product" component={} />
       </BrowserRouter>
       <Footer />

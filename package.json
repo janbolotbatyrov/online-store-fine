@@ -2,7 +2,7 @@
   "name": "oline-store",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://janbolotbatyrov.github.io/online-store",
+  "homepage": "https://janbolotbatyrov.github.io/online-store-fine/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.0",
     "@testing-library/react": "^11.2.7",
